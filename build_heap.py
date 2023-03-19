@@ -14,7 +14,7 @@ def sift_down(data, swaps, i):
         sift_down(data, swaps, maz)
     return swaps
 
-
+#erewr 
 def build_heap(data):
     swaps = []
     n = len(data) 
